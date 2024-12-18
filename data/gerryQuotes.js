@@ -69,9 +69,4 @@ const gerryScottiQuotes = [
     quote: "Un po’ di gentilezza può cambiare il mondo di una persona.",
     date: "2019-09-09"
   },
-  {
-    id: 15,
-    quote: "Essere se stessi è il regalo più grande che puoi fare al mondo.",
-    date: "2018-11-30"
-  }
 ];
