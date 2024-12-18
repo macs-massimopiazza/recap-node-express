@@ -70,3 +70,9 @@ const gerryScottiQuotes = [
     date: "2019-09-09"
   },
 ];
+
+function getQuote(index) {
+  return gerryScottiQuotes[index];
+}
+
+module.exports = gerryScottiQuotes;
